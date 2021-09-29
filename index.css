@@ -1,0 +1,18 @@
+
+/* id selector */
+#details{
+    color: brown;
+    text-decoration: underline;
+}
+/* class selector */
+.list{
+    color: darkblue;
+}
+/* grouping selector */
+footer,span{
+    background-color: darkgrey;
+}
+*{
+    background-color: aqua;
+    font-family: fantasy;
+}
