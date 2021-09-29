@@ -13,6 +13,18 @@ footer,span{
     background-color: darkgrey;
 }
 *{
-    background-color: aqua;
-    font-family: fantasy;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.table{
+   border-color: white;
+   table-layout: auto;
+   
+}
+.title{
+    color:black;
+    text-decoration:solid;
+    background-color: rgb(183, 216, 216);
+    text-shadow:4px 4px 8px blue;
+    
 }
